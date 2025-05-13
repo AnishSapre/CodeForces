@@ -5,7 +5,7 @@ m = int(m)
 a = int(a)
 
 if a == 1:
-    print(n*m)
+    print(n * m)
 else:
     if n%a == 0:
         length = n//a
