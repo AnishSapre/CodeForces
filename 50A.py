@@ -1,0 +1,5 @@
+dimensions = input()
+length, breadth = dimensions.split(' ')
+length = int(length)
+breadth = int(breadth)
+print((length*breadth)//2)
