@@ -5,7 +5,6 @@ for char in username:
         continue
     else:
         distinct.append(char)
-
 if len(distinct)%2 == 0:
     print("CHAT WITH HER!")
 else:
